@@ -1,0 +1,19 @@
+{
+  "name": "@support-squad-c2c-resources/packages-example-npm",
+  "version": "1.0.2",
+  "description": "An example hello world package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/support-squad-c2c-resources/packages-example-npm.git"
+  },
+  "author": "@andrewgxp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/support-squad-c2c-resources/packages-example-npm/issues"
+  },
+  "homepage": "https://github.com/support-squad-c2c-resources/packages-example-npm#readme"
+}
