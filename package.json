@@ -1,5 +1,5 @@
 {
-  "name": "@pwnrot/package-test",
+  "name": "@pi3r0t/package-test",
   "version": "1.0.2",
   "description": "An example hello world package",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pwnrot/package-test.git"
+    "url": "git+https://github.com/pi3r0t/package-test.git"
   },
   "author": "@erajtob",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pwnrot/package-test/issues"
+    "url": "https://github.com/pi3r0t/package-test/issues"
   },
-  "homepage": "https://github.com/pwnrot/packages-test#readme"
+  "homepage": "https://github.com/pi3r0t/packages-test#readme"
 }
