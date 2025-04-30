@@ -1,5 +1,5 @@
 {
-  "name": "@pwnrot/package-test/packages-example-npm",
+  "name": "@pwnrot/package-test",
   "version": "1.0.2",
   "description": "An example hello world package",
   "main": "index.js",
