@@ -1,5 +1,5 @@
 {
-  "name": "@support-squad-c2c-resources/packages-example-npm",
+  "name": "@pwnrot/package-test/packages-example-npm",
   "version": "1.0.2",
   "description": "An example hello world package",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/support-squad-c2c-resources/packages-example-npm.git"
+    "url": "git+https://github.com/pwnrot/package-test.git"
   },
-  "author": "@andrewgxp",
+  "author": "@erajtob",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/support-squad-c2c-resources/packages-example-npm/issues"
+    "url": "https://github.com/pwnrot/package-test/issues"
   },
-  "homepage": "https://github.com/support-squad-c2c-resources/packages-example-npm#readme"
+  "homepage": "https://github.com/pwnrot/packages-test#readme"
 }
