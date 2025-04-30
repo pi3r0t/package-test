@@ -12,11 +12,11 @@ jobs:
           check-latest: true
       - run: npm --version
       - run: node -v
-      - run: npm install
+      - run: npm install --loglevel verbose
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - run: npm ci
-      - run: npm test
+      - run: npm test --loglevel verbose
 
   publish-gpr:
     needs: build
@@ -31,7 +31,7 @@ jobs:
           node-version: 16
           check-latest: true
           registry-url: https://npm.pkg.github.com/
-      - run: npm install
+      - run: npm install --loglevel verbose
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - run: npm ci
